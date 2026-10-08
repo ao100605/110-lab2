@@ -1,3 +1,6 @@
 import { printSnacks } from "./snacks";
+import { printPets } from "./pets";
 
-printSnacks()
+printSnacks();
+
+printPets();
