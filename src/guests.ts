@@ -5,5 +5,3 @@ function printGuests() {
         console.log(guest);
     }
 }
-
-printSnacks()
