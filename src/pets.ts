@@ -1,6 +1,6 @@
 import {Bold} from "./animation"
 
-const pets: string[] = ["cat", "dog", "hamster", "parrot"];
+export const pets: string[] = ["cat", "dog", "hamster", "parrot"];
 
 export function printPets(){
     for (const pet of pets){

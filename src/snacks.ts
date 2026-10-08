@@ -1,9 +1,9 @@
 import { Bold } from "./animation"
 
-const snackNames: string[] = ["chips", "chocolate", "fries", "candy", "cookies", "banana", "shrimp crackers"];
+export const snacks: string[] = ["chips", "chocolate", "fries", "candy", "cookies", "banana", "shrimp crackers"];
 
 export function printSnacks() {
-    for (const snack of snackNames) {
+    for (const snack of snacks) {
         Bold(snack);
     }
 }
