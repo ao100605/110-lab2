@@ -1,8 +1,6 @@
 
 export function Bold(inputFeature: string){
    console.log(`\x1b[1m${inputFeature}\x1b[0m`); // Bold
-
-
 }
 
 export function Italisize(inputFeature: string){
