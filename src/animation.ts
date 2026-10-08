@@ -10,6 +10,4 @@ export function Italisize(inputFeature: string){
 }
 
 
-Bold("PARTY")
-Italisize("AAAAAAAAAA")
 
